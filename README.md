@@ -94,3 +94,6 @@ Executive Readiness: Clean, uncluttered layout ensures fast decision-making
 
 6. Screenshots / Demo
 ![Dashboard Preview](https://github.com/Afreenfatima566/FMCG-sales-and-performance-dashboard/blob/main/FMCG%20sales%20and%20performance%20dashboard.png)
+
+[📊 View Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWVkOGE2ZWQtYzM5My00ODI5LWEyNmEtZjhjOWIwZTU1MmI1IiwidCI6ImEyZjUzYWVmLWFkM2MtNGYzNi04NjRlLTM1NjdlNjUxMjQ3MyJ9)
+
