@@ -97,3 +97,31 @@ Executive Readiness: Clean, uncluttered layout ensures fast decision-making
 
 [📊 View Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWVkOGE2ZWQtYzM5My00ODI5LWEyNmEtZjhjOWIwZTU1MmI1IiwidCI6ImEyZjUzYWVmLWFkM2MtNGYzNi04NjRlLTM1NjdlNjUxMjQ3MyJ9)
 
+# 💫 About Me:
+🔭 I’m currently working on: Building end-to-end Power BI dashboards, specifically for Blinkit Sales & Inventory Analysis and FMCG Spices & Pickles Performance.<br>👯 I’m looking to collaborate on: Data-driven projects that require translating business requirements into clear, executive-focused dashboards and strategic business execution.<br>🤝 I’m looking for help with: Advanced data governance standards and scaling automated data collection pipelines in fast-paced corporate environments.<br>🌱 I’m currently learning: Optimizing Data Analytics Process Automation to streamline business intelligence pipelines and exploratory data analysis (EDA).<br>💬 Ask me about: Power BI, SQL, and Python for data integrity, as well as retail KPIs like outlet performance and profitability margins.<br>⚡ Fun fact: I love the challenge of "UX for Data"—constantly experimenting with new dashboard designs to make sure every KPI tells a clear and compelling story.
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/afreen-fatima-27a9ba298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:afreenfatima2859@gmail.com) 
+
+# 💻 Tech Stack:
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Afreenfatima566&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Afreenfatima566&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Afreenfatima566&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Afreenfatima566&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Afreenfatima566&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Afreenfatima566&icon=5&color=10)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
