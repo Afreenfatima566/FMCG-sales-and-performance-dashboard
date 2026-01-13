@@ -102,25 +102,25 @@ Executive Readiness: Clean, uncluttered layout ensures fast decision-making
 
 
 ## 🌐 Socials:
-Visit my [LinkedIn profile](https://www.linkedin.com/in/afreen-fatima-27a9ba298/)  [email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)(mailto:afreenfatima2859@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afreen-fatima-27a9ba298/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:afreenfatima2859@gmail.com) 
 
 # 💻 Tech Stack:
-[Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) [Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) [Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) [MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 # 📊 GitHub Stats:
-[](https://github-readme-stats.vercel.app/api?username=Afreenfatima566&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-[](https://nirzak-streak-stats.vercel.app/?user=Afreenfatima566&theme=dark&hide_border=false)<br/>
-[](https://github-readme-stats.vercel.app/api/top-langs/?username=Afreenfatima566&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Afreenfatima566&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Afreenfatima566&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Afreenfatima566&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-[](https://github-profile-trophy.vercel.app/?username=Afreenfatima566&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Afreenfatima566&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-[](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-[](https://github-contributor-stats.vercel.app/api?username=Afreenfatima566&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Afreenfatima566&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[[](https://visitcount.itsvg.in/api?id=Afreenfatima566&icon=5&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Afreenfatima566&icon=5&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
